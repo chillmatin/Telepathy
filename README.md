@@ -74,6 +74,9 @@ Watch the video demonstration of the "Telepathy" project:
 - **Expansion to Assistive Technologies:** Extend the project to develop intuitive and effective prosthetic devices or rehabilitation tools.
 - **Gym and Physiotherapy Applications:** Adapt the technology for gym and physiotherapy settings to monitor and enhance physical training and rehabilitation exercises, providing real-time feedback and personalized workout plans.
 
+## Report
+For detailed information, please refer to our project report: [Telepathy Term Project Report](https://github.com/chillmatin/Telepathy/blob/main/TermProjectReport.pdf)
+
 ## References
 - Brooks, J. (2020). About backyard brains. [Link](https://www.instructables.com/Arduino-LCD-Game/)
 - Gage, G. (2015). How to control someone else’s arm with your brain. [Link](https://www.youtube.com/watch?v=rSQNi5sAwuc&t=1s)
