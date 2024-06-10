@@ -5,7 +5,7 @@ This project, "Telepathy," demonstrates the integration of neuroscience, embedde
 
 ## Group Members
 - [Matin Huseynzade](https://github.com/chillmatin)
-- Fahrettin Çetin
+- [Fahrettin Çetin](https://github.com/fhricetin)
 - Berkan Gönülsever
 
 ## Project Description
