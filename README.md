@@ -4,8 +4,8 @@
 This project, "Telepathy," demonstrates the integration of neuroscience, embedded systems, and interactive technology by using Electromyography (EMG) to control a parkour game displayed on a 16x2 LCD screen. The project aims to make complex scientific concepts in neuroscience and bio-engineering accessible through hands-on learning experiences.
 
 ## Group Members
+- [Matin Huseynzade](https://github.com/chillmatin)
 - Fahrettin Çetin
-- Matin Huseynzade
 - Berkan Gönülsever
 
 ## Project Description
